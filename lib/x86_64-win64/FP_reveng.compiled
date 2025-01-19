@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CONFIG>
-  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1497212298"/>
-  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\lib\x86_64-win64 -FuC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\ -FUC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\lib\x86_64-win64\ -FEC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\ -oC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\FP_reveng.exe FP_reveng.lpr"/>
+  <Compiler Value="C:\lazarus\fpc\3.2.2\bin\x86_64-win64\fpc.exe" Date="1512399215"/>
+  <Params Value="-MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\lib\x86_64-win64 -FuC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\ -FUC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\lib\x86_64-win64\ -FEC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\ -oC:\Users\cmgau\SynologyDrive\GitHubRepo\FP_reveng\FP_reveng.exe FP_reveng.lpr"/>
 </CONFIG>

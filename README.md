@@ -60,6 +60,28 @@ end;
 ```
 
 Note that I do not try to extract any parameters from the procedure, because I do not need to translate the asm code into pascal code, I simply want to obtain a working pascal code while minimizing the risk of altering the original code.
+# program flow
+While decoding the asm code, there are three program states:
+
+* reading comments
+* reading procedure
+* reading global data structure 
+## reading procedure
+The procedure starts with a row that starts with these three tokens:
+
+``` 
+<proc_name> proc near
+```
+The procedure ends with a line that starts with two tokens:
+
+```
+<proc_name> endp
+```
+
+## reading comments
+That happend when we aren't reading procedures or global data structures. The whole row is a comment.
+
+
 
 
 

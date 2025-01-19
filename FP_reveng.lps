@@ -9,148 +9,184 @@
         <Filename Value="FP_reveng.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="76"/>
-        <CursorPos X="5" Y="78"/>
-        <UsageCount Value="20"/>
+        <TopLine Value="327"/>
+        <CursorPos X="53" Y="409"/>
+        <FoldState Value=" T3jW2O8932 pjEtK253 PBJ2U"/>
+        <UsageCount Value="102"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\fcl-base\src\custapp.pp"/>
         <UnitName Value="CustApp"/>
         <EditorIndex Value="-1"/>
-        <TopLine Value="40"/>
-        <CursorPos X="17" Y="60"/>
-        <UsageCount Value="10"/>
+        <TopLine Value="63"/>
+        <CursorPos X="15" Y="63"/>
+        <UsageCount Value="19"/>
       </Unit>
       <Unit>
         <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\objpash.inc"/>
         <EditorIndex Value="1"/>
-        <TopLine Value="183"/>
+        <TopLine Value="206"/>
         <CursorPos X="23" Y="206"/>
-        <UsageCount Value="10"/>
+        <UsageCount Value="19"/>
         <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\packages\rtl-objpas\src\inc\strutils.pp"/>
+        <UnitName Value="StrUtils"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1377"/>
+        <CursorPos X="3" Y="1379"/>
+        <UsageCount Value="23"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\syshelph.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="171"/>
+        <CursorPos X="14" Y="171"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\syshelp.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1288"/>
+        <CursorPos X="57" Y="1319"/>
+        <UsageCount Value="9"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1313"/>
+        <CursorPos X="11" Y="1334"/>
+        <UsageCount Value="6"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\objpas\sysutils\sysansih.inc"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="10" Y="18"/>
+        <UsageCount Value="3"/>
       </Unit>
     </Units>
     <JumpHistory HistoryIndex="29">
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="50" Column="17" TopLine="25"/>
+        <Caret Line="64" Column="14" TopLine="63"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="134" Column="26" TopLine="125"/>
+        <Caret Line="262" Column="5" TopLine="253"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="48" Column="15" TopLine="27"/>
+        <Caret Line="291" Column="39" TopLine="253"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="115" Column="30" TopLine="113"/>
+        <Caret Line="286" Column="15" TopLine="253"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="113" Column="26" TopLine="94"/>
+        <Caret Line="499" Column="54" TopLine="464"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="62" Column="21" TopLine="31"/>
+        <Caret Line="66" Column="14" TopLine="66"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="189" Column="5" TopLine="164"/>
+        <Caret Line="67" Column="20" TopLine="54"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="62" Column="21" TopLine="39"/>
+        <Caret Line="304" Column="67" TopLine="275"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="178" TopLine="151"/>
+        <Caret Line="325" Column="59" TopLine="315"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="174" Column="47" TopLine="156"/>
+        <Caret Line="415" TopLine="388"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="171" Column="39" TopLine="156"/>
+        <Caret Line="338" TopLine="311"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="59" Column="5" TopLine="35"/>
+        <Caret Line="509" TopLine="483"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="173" Column="56" TopLine="142"/>
+        <Caret Line="338" Column="33" TopLine="317"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="84" Column="55" TopLine="51"/>
+        <Caret Line="336" Column="64" TopLine="423"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="41" Column="6" TopLine="18"/>
+        <Caret Line="322" TopLine="312"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="45" Column="33" TopLine="18"/>
+        <Caret Line="337" TopLine="312"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="78" Column="23" TopLine="64"/>
+        <Caret Line="417" TopLine="390"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="30" Column="17" TopLine="21"/>
+        <Caret Line="345" Column="24" TopLine="310"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="44" Column="24" TopLine="21"/>
+        <Caret Line="330" Column="36" TopLine="311"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="78" Column="16" TopLine="55"/>
+        <Caret Line="23" Column="44" TopLine="7"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="41" Column="51" TopLine="21"/>
+        <Caret Line="368" Column="55" TopLine="344"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="45" Column="19" TopLine="21"/>
+        <Caret Line="331" Column="89" TopLine="520"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="78" Column="5" TopLine="72"/>
+        <Caret Line="68" Column="14" TopLine="68"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="46" Column="23" TopLine="23"/>
+        <Caret Line="71" Column="19" TopLine="57"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="86" Column="30" TopLine="83"/>
+        <Caret Line="345" Column="91" TopLine="423"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="51" Column="35" TopLine="36"/>
+        <Caret Line="351" Column="46" TopLine="331"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="56" Column="20" TopLine="28"/>
+        <Caret Line="386" Column="55" TopLine="351"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="145" Column="31" TopLine="135"/>
+        <Caret Line="637" Column="38" TopLine="601"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="149" Column="33" TopLine="126"/>
+        <Caret Line="85" Column="15" TopLine="78"/>
       </Position>
       <Position>
         <Filename Value="FP_reveng.lpr"/>
-        <Caret Line="44" Column="17" TopLine="21"/>
+        <Caret Line="390" Column="55" TopLine="362"/>
       </Position>
     </JumpHistory>
     <RunParams>
@@ -158,4 +194,42 @@
       <Modes ActiveMode=""/>
     </RunParams>
   </ProjectSession>
+  <Debugging>
+    <BreakPoints>
+      <Item>
+        <Kind Value="bpkData"/>
+        <WatchScope Value="wpsGlobal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Expression Value="i=57279"/>
+      </Item>
+      <Item>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="FP_reveng.lpr"/>
+        <Line Value="476"/>
+      </Item>
+    </BreakPoints>
+    <Watches>
+      <Item>
+        <Expression Value="lines[i]"/>
+      </Item>
+      <Item>
+        <Expression Value="lines"/>
+      </Item>
+      <Item>
+        <Expression Value="i"/>
+      </Item>
+      <Item>
+        <Expression Value="s"/>
+      </Item>
+      <Item>
+        <Expression Value="self"/>
+      </Item>
+      <Item>
+        <Expression Value="tokens"/>
+        <DisplayFormat ArrayNavBarInherit="False"/>
+      </Item>
+    </Watches>
+  </Debugging>
 </CONFIG>
